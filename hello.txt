@@ -1,4 +1,4 @@
 Hello, Git!
-Hello, world!
 Hello, everybody!
 Hey! Hello!new hello
+новая строка
