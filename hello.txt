@@ -3,3 +3,5 @@ Hello, everybody!
 Hey! Hello!new hello
 новая строка
 другая строка
+
+hello, git!
