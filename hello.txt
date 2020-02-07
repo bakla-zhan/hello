@@ -5,3 +5,4 @@ Hey! Hello!new hello
 другая строка
 
 hello, git!
+hello, git rebase!
